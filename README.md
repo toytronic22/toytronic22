@@ -34,9 +34,9 @@
 </p>
   
   ## My projects:
-### :heavy_check_mark: UI Autotests for Dodopizza website
+### :heavy_check_mark: Web UI Autotests for Dodopizza website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toytronic22&repo=dodo_ui)](https://github.com/toytronic22/dodo_ui)
-### :heavy_check_mark: Mobile Autotests for Dodopizza app
+### :heavy_check_mark: Mobile UI Autotests for Dodopizza app
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toytronic22&repo=dodo_mobile)](https://github.com/toytronic22/dodo_mobile)
 ### :heavy_check_mark: API Autotests for reqres.in website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toytronic22&repo=reqres_api)](https://github.com/toytronic22/reqres_api)
