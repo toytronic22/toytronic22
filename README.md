@@ -1,4 +1,4 @@
-### Hi there! I'm Alexey Martynov 👋
+### Hi there! I'm Alexey Martynov.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 ### How to reach me:
   <a href="https://t.me/toytronic">
