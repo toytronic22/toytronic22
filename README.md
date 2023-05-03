@@ -30,7 +30,6 @@
 <img width="5%" title="RestAssured" src="media/icons/RestAssured.svg">
 <img width="5%" title="Jira" src="media/icons/Jira.svg">
 
-
 </p>
   
   ## My projects:
@@ -47,3 +46,8 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toytronic22&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toytronic22&theme=solarized_dark)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toytronic22&theme=solarized_dark)
+  
+### My certificates:
+<img width="100%" align="center" title="QaGuru" src="media/icons/qaguru.png">
+<img width="100%" align="center" title="Yandex Practicum" src="media/icons/yandex1.jpg">
+<img width="100%" align="center" title="Yandex Practicum" src="media/icons/yandex2.jpg">
