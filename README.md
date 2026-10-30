@@ -109,7 +109,7 @@
 
 ## Учёба
 
-- Автоматизированное тестирование на C# — TeachMeSkills, 2026, учусь сейчас.
+- Automation QA Engineer (C#) — TeachMeSkills, май–октябрь 2026, 140 академических часов, окончил.
 - Java: автоматизация тестирования — QA.GURU, 2023.
 - Инженер по тестированию — Яндекс Практикум, 2022.
 
@@ -138,6 +138,7 @@
 <details>
 <summary>Сертификаты</summary>
 
+<img width="100%" title="TeachMeSkills" src="media/icons/teachmeskills.png">
 <img width="100%" title="QA.GURU" src="media/icons/qaguru.png">
 <img width="100%" title="Яндекс Практикум" src="media/icons/yandex1.jpg">
 <img width="100%" title="Яндекс Практикум" src="media/icons/yandex2.jpg">
